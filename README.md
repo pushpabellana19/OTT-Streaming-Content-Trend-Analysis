@@ -39,5 +39,4 @@ Netflix Movies and TV Shows dataset containing 8,807 records and 12 columns.
 ## Conclusion
 This project helped identify Netflix content trends using Python, data visualization, and SQL. The findings provide useful insights for content planning and strategy.
 
-## Internship
-Completed as part of the internship task at **Veda Technology**.
+
